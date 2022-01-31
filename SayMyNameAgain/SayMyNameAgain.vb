@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2020
 'Say My Name Again
-'https:
+'https://github.com/jmcarth4/SayMyNameAgain
 
 Option Explicit On
 Option Strict On
